@@ -10,7 +10,7 @@ config.General.workArea = 'crab_projects_step1'
 config.section_("JobType")
 config.JobType.pluginName  = 'Analysis'
 config.JobType.psetName = 'step1_DIGIPREMIX_S2_DATAMIX_L1_DIGI2RAW_HLT.py'
-#config.JobType.maxMemoryMB = 10000
+config.JobType.maxMemoryMB = 3500
 #config.JobType.numCores = 8
 
 
