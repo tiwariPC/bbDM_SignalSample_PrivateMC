@@ -21,7 +21,7 @@ config.Data.inputDBS = 'phys03'
 config.Data.outLFNDirBase = '/store/user/ptiwari/t3store2/2016_SignalSample_23102019/'
 config.Data.publication = True
 #config.Data.inputDataset = '/CRAB_PrivateMC/dekumar-EXO-sinp_0p35_tanb_1p0_mXd_10_MH3_600_MH4_150_MH2_600_MHC_600_step2-871705712505634bb6e8bf8a7788e376/USER'
-config.Data.inputDataset = '/CRAB_PrivateMC/ptiwari-EXO-bbDM_2HDMa_LO_5f_Ma350_MChi1_MA600_tanb35_sint_0p7_MH_600_MHC_600_13TeV_step2-871705712505634bb6e8bf8a7788e376/USER'
+config.Data.inputDataset = '/CRAB_PrivateMC/ptiwari-EXO-bbDM_2HDMa_LO_5f_Ma200_MChi1_MA600_tanb35_sint_0p7_MH_600_MHC_600_13TeV_step2-871705712505634bb6e8bf8a7788e376/USER'
 
 
 config.section_("Site")
