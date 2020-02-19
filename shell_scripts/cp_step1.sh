@@ -1,4 +1,4 @@
-cp /eos/user/p/ptiwari/signalConfFiles/bbDM_2HDMa_MH3_1200_MH4_1000_Mchi_1/crab_cfg_step1.py 	﻿bbDM_2HDMa_MH3_1200_MH4_1000_Mchi_1/
+cp /eos/user/p/ptiwari/signalConfFiles/bbDM_2HDMa_MH3_1200_MH4_1000_Mchi_1/crab_cfg_step1.py bbDM_2HDMa_MH3_1200_MH4_1000_Mchi_1/
 
 
 cp /eos/user/p/ptiwari/signalConfFiles/bbDM_2HDMa_MH3_1200_MH4_100_Mchi_1/crab_cfg_step1.py	bbDM_2HDMa_MH3_1200_MH4_100_Mchi_1/

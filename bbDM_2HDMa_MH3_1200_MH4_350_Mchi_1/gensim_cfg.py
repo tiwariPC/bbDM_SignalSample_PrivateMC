@@ -121,7 +121,7 @@ process.generator = cms.EDFilter("Pythia8HadronizerFilter",
 
 
 process.externalLHEProducer = cms.EDProducer("ExternalLHEProducer",
-    args = cms.vstring('/cvmfs/cms.cern.ch/phys_generator/gridpacks/2017/13TeV/madgraph/V5_2.6.0/2HDMa_bbDM_test/bbDM_2HDMa_MH3_600_MH4_350_Mchi_1_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz'),
+    args = cms.vstring('/cvmfs/cms.cern.ch/phys_generator/gridpacks/2017/13TeV/madgraph/V5_2.6.0/2HDMa_bbDM_test/bbDM_2HDMa_MH3_1200_MH4_350_Mchi_1_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz'),
     nEvents = cms.untracked.uint32(10),
     numberOfParameters = cms.uint32(1),
     outputFile = cms.string('cmsgrid_final.lhe'),
